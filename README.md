@@ -1,3 +1,3 @@
 # adder_verilog
 
-I am creeating a verilog code for basic addition
+I am creating a verilog code for basic addition
